@@ -4,12 +4,12 @@
 
 # Site
 title: Wujiaoya
-subtitle: ''
-description: ''
+subtitle: 'do what you want to do'
+description: 'This website records some of my own study notes! '
 keywords:
-author: John Doe
+author: Wu Jiaoya
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
