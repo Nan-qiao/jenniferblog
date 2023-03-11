@@ -1,8 +1,12 @@
 ---
 title: Vuex
 date: 2023-03-11 12:03:00
-tags: Vue Vuex
-categories: 前端
+tags: 
+    - Vue 
+    - Vuex
+categories: 
+    - 前端
+    - Vue
 cover: https://pic.imgdb.cn/item/640c26e9f144a01007c8dca2.jpg
 ---
 # VueX

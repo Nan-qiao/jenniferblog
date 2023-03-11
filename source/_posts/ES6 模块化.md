@@ -1,8 +1,11 @@
 ---
 title: ES6 模块化
 date: 2023-02-22 19:54:12
-tags: ES6 模块化
-categories: 前端
+tags: 
+    - ES6 
+    - 模块化
+categories: 
+    - 前端
 cover: https://pic.imgdb.cn/item/640c2ab5f144a01007cfb82f.webp
 ---
 ## node.js 中实现模块化
