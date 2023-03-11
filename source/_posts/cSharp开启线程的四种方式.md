@@ -3,6 +3,7 @@ title: cSharp开启线程的四种方式
 date: 2023-03-10 20:23:00
 tags: C# 多线程
 categories: C#
+cover: https://pic.imgdb.cn/item/640c2bc1f144a01007d1a2f0.jpg
 ---
 # C#开启线程的四种方式
 

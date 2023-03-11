@@ -13,7 +13,6 @@ menu:
     电影: /movies/ || fas fa-video
   关于: /about/ || fas fa-heart
 
-
 nav:
   logo: https://pic.imgdb.cn/item/63f5ff81f144a01007619892.png
   display_title: true
@@ -56,7 +55,7 @@ algolia_search:
 
 # Local search
 local_search:
--  enable: false
+  - enable: false
 +  enable: true
 
 # Math (數學)
@@ -125,9 +124,10 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
+    
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
@@ -640,11 +640,11 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "愿你我都能找到自我"
-    - "Hope you have a nice day~"
+    - '愿你我都能找到自我'
+    - 'Hope you have a nice day~'
 
 # Loading Animation (加載動畫)
-preloader: 
+preloader:
   enable: true
   # source
   # 1. fullpage-loading
