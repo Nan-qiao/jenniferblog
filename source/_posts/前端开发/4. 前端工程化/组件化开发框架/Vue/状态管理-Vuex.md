@@ -5,8 +5,11 @@ tags:
     - Vue 
     - Vuex
 categories: 
-    - 前端
+    - 前端开发
+    - (四)前端工程化
+    - 组件化开发框架
     - Vue
+    - 状态管理 - Vuex
 cover: https://pic.imgdb.cn/item/640c26e9f144a01007c8dca2.jpg
 ---
 # VueX

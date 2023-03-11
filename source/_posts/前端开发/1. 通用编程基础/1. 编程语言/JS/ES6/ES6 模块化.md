@@ -5,7 +5,11 @@ tags:
     - ES6 
     - 模块化
 categories: 
-    - 前端
+    - 前端开发
+    - (一)编程基础
+    - 1.编程语言
+    - JavaScript
+    - ES6+(6、7、8)
 cover: https://pic.imgdb.cn/item/640c2ab5f144a01007cfb82f.webp
 ---
 ## node.js 中实现模块化
