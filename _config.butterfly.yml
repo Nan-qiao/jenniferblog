@@ -91,17 +91,17 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://pic.imgdb.cn/item/63c53348be43e0d30e05db22.jpg
+index_img: https://pic.imgdb.cn/item/640c91fcf144a01007a48999.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://pic.imgdb.cn/item/63c53348be43e0d30e05db22.jpg
+default_top_img: https://pic.imgdb.cn/item/640c8f4bf144a010079cf704.png
 
 # The banner image of archive page
-archive_img: https://pic.imgdb.cn/item/63f5d237f144a010071ba70a.jpg
+archive_img: https://pic.imgdb.cn/item/640c8eeef144a010079c2f5b.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: 
 
 # The banner image of tag page
 # format:
