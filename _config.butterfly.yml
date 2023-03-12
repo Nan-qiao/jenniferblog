@@ -11,7 +11,6 @@ menu:
     音乐: /music/ || fas fa-music
     照片: /Gallery/ || fas fa-image
     电影: /movies/ || fas fa-video
-  留言板: /comments/ || fas fa-comments
   关于: /about/ || fas fa-heart
 
 nav:
@@ -275,7 +274,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: Twikoo
+  use: #Twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -528,7 +527,8 @@ tag_ui: # 留空或 index
 background: url(https://source.fomal.cc/img/dm1.webp)
 
 # Footer Background
-footer_bg: false
+footer_bg: true
+
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
